@@ -1,0 +1,3 @@
+vehicle_id,vehicle_type,capacity_packages,capacity_weight_kg,start_depot,end_depot
+1,Van,25,100,0,0
+2,Van,25,100,0,0

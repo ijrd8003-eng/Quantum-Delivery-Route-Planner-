@@ -1,0 +1,72 @@
+{
+    "num_locations": 4,
+    "num_customers": 3,
+    "num_vehicles": 2,
+    "depot": 0,
+    "vehicle_capacities": [
+        50,
+        50
+    ],
+    "demands": [
+        0,
+        10,
+        10,
+        10
+    ],
+    "distance_matrix": [
+        [
+            0.0,
+            47.50789408087881,
+            64.38167441127949,
+            24.20743687382041
+        ],
+        [
+            47.50789408087881,
+            0.0,
+            111.73182178770737,
+            49.040799340956916
+        ],
+        [
+            64.38167441127949,
+            111.73182178770737,
+            0.0,
+            70.66116330771806
+        ],
+        [
+            24.20743687382041,
+            49.040799340956916,
+            70.66116330771806,
+            0.0
+        ]
+    ],
+    "locations": [
+        {
+            "location_id": 0,
+            "name": "Main Warehouse",
+            "type": "Depot",
+            "x": 50,
+            "y": 50
+        },
+        {
+            "location_id": 1,
+            "name": "Customer_1",
+            "type": "Customer",
+            "x": 81,
+            "y": 14
+        },
+        {
+            "location_id": 2,
+            "name": "Customer_2",
+            "type": "Customer",
+            "x": 3,
+            "y": 94
+        },
+        {
+            "location_id": 3,
+            "name": "Customer_3",
+            "type": "Customer",
+            "x": 35,
+            "y": 31
+        }
+    ]
+}

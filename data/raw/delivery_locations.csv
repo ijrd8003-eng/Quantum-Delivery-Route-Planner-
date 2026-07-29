@@ -1,0 +1,5 @@
+location_id,name,type,x,y
+0,Main Warehouse,Depot,50,50
+1,Customer_1,Customer,81,14
+2,Customer_2,Customer,3,94
+3,Customer_3,Customer,35,31
